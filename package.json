@@ -1,6 +1,6 @@
 {
   "name": "@galkin/electrolyte-binder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Electrolyte custom loader for binding",
   "main": "index.js",
   "keywords": [
