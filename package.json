@@ -1,0 +1,37 @@
+{
+  "name": "@galkin/electrolyte-binder",
+  "version": "0.0.1",
+  "description": "Electrolyte custom loader for binding",
+  "main": "index.js",
+  "keywords": [
+    "electrolyte",
+    "loader",
+    "bind",
+    "dependency",
+    "injection"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Nikita Galkin",
+    "url": "http://galk.in/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/galk-in/electrolyte-binder.git"
+  },
+  "bugs": {
+    "url": "http://github.com/galk-in/electrolyte-binder/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
